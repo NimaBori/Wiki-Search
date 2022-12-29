@@ -1,0 +1,14 @@
+Button {  
+  background: transparent;
+  border: none;  
+}
+
+input {
+  border: none;
+  width: 100%;
+  font-size: 30px;
+}
+
+input:focus {
+  outline: none;
+}
